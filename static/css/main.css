@@ -10,7 +10,9 @@ table{
     margin: auto;
     margin-bottom: 25px;
 }
-td, th {
-    padding: 3px; /* Поля вокруг содержимого таблицы */
-    border: 1px solid black; /* Параметры рамки */
-   }
+td, th{
+    padding: 0px; 
+    border: 1px solid black; 
+}
+input{
+    height: 25px;
