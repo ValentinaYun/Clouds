@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    font: 20px;
+}
+table{
+    margin: auto;
+    margin-bottom: 25px;
+}
+td, th {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+   }
