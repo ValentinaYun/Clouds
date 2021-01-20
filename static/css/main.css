@@ -14,7 +14,6 @@ table {
 }
 td, th {
     padding: 20px; 
-    border: 1px solid black; 
 }
 
 a {
@@ -25,7 +24,7 @@ a {
     outline: none;
 }
 
-a :hover{
+a :hover {
     color: #007eff;
 }
 
@@ -38,7 +37,7 @@ input {
     padding-left: 10px;
 }
 
-input:active{ 
+input:active { 
     box-shadow: 0 0 2px 0 #e0e0e0;
     -webkit-box-shadow: 0 0 2px 0 #e0e0e0;
     -moz-box-shadow: 0 0 2px 0 #e0e0e0;
@@ -46,6 +45,6 @@ input:active{
     -o-box-shadow: 0 0 2px 0 #e0e0e0;
 }
 
-tr{
+tr {
     border-bottom: 1px solid #44c3c3;
 }
